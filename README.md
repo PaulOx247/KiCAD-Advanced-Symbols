@@ -1,4 +1,4 @@
-# Circuit Symbols Library
+# KiCAD-Advanced-Symbols
 
 This project contains a comprehensive library of custom circuit symbols for use in KiCAD. The library includes various components like current and voltage arrows, AC and DC generators, resistors, capacitors, and measuring instruments. Each symbol follows standard conventions with additional customization for enhanced clarity and functionality in circuit design.
 
@@ -11,24 +11,20 @@ The library includes the following categories of symbols:
 ### 1. Arrows (Current & Voltage)
 - **Current and Voltage arrows** with various lengths, measured in Raster Units (RU), for indicating current flow and potential differences in circuits.
 
-![Current Arrows](path_to_screenshot_current_arrows)  
-![Voltage Arrows](path_to_screenshot_voltage_arrows)
+![image](https://github.com/user-attachments/assets/a629d48e-b4fb-4bc6-b0e7-4f7a162f6d39)
 
 ### 2. Generators (AC & DC)
 - **AC and DC Generators** for providing alternating or direct current in different circuit designs.
 
-![Generators](path_to_screenshot_generators)
+![image](https://github.com/user-attachments/assets/22aa7aa6-e324-4932-b8ba-edb72365529b)
 
 ### 3. Passive Components (Resistors & Capacitors)
 - **Resistors** (fixed and variable) and **Capacitors**, essential for controlling current, storing energy, and filtering signals.
 
-![Resistors and Capacitors](path_to_screenshot_resistors_capacitors)
-
 ### 4. Measuring Instruments (Voltmeters & Ammeters)
 - **Measuring instruments** like voltmeters and ammeters for monitoring voltage and current.
 
-![Measuring Instruments](path_to_screenshot_measuring_instruments)
-
+![image](https://github.com/user-attachments/assets/76bbb5d0-30d4-4e99-acc5-098461ee6442)
 
 
 ## How to Add the Library to KiCAD
@@ -84,7 +80,7 @@ To easily access the custom symbols while working on your schematics, you can pi
 
 Here are some example images of the components in action:
 
-![Example Schematic](path_to_screenshot_example_schematic)
+![image](https://github.com/user-attachments/assets/9fabc51f-2764-412a-bf84-b49f3f733746)
 
 ---
 
