@@ -34,7 +34,7 @@ Follow these steps to import the custom library into KiCAD:
 ### Step 1: Download the Library
 1. Clone or download the repository to your local machine:
    ```bash
-   git clone https://github.com/your-repository/circuit-symbols-library.git
+   git clone https://github.com/PaulOx247/KiCAD-Advanced-Symbols.git
 	```
 
 ### Step 2: Save the Library in the KiCAD Symbol Folder
