@@ -84,6 +84,12 @@ Here are some example images of the components in action:
 
 ---
 
+### Black-and-White Color Scheme for Printing
+
+If you're looking for a black-and-white color scheme for KiCAD schematics, you can use the custom scheme available [here](https://github.com/PaulOx247/KiCAD-BlackWhite-Schematic.git). This scheme ensures clarity and legibility when printing schematics in monochrome, while still allowing specific elements (like current flow arrows) to retain their assigned colors. Perfect for technical reports and documentation!
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
