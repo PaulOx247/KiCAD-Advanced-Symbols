@@ -1012,7 +1012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Strom" "xxxmA"
+		(property "Current" "xxxmA"
 			(at -3.81 -0.9525 0)
 			(do_not_autoplace)
 			(effects

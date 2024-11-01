@@ -1197,7 +1197,7 @@
 			)
 		)
 		(property "Value" "xxV"
-			(at -3.048 1.016 0)
+			(at -3.81 1.27 0)
 			(do_not_autoplace)
 			(effects
 				(font
@@ -1234,7 +1234,7 @@
 			)
 		)
 		(property "Current" "xxxmA"
-			(at -3.048 -1.016 0)
+			(at -3.81 -1.27 0)
 			(do_not_autoplace)
 			(effects
 				(font
